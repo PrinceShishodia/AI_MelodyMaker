@@ -34,6 +34,8 @@ Then I used the mitdeeplearning module to convert the ABC Notation music to a so
 1) The Nottingham Music Database: http://abc.sourceforge.net/NMD/
 
 2) Article on LSTM by Christopher Olah: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+   
+3) Google Colab Link: https://colab.research.google.com/drive/1rHg7mJee3us8C4zpvfdzyrL466QMBTSw?usp=sharing 
 
 
 
